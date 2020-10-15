@@ -23,6 +23,6 @@ python model.py
 
 3. Test Model
 
-Saved modle is used to test the test dataset. 
+Saved model is used to test the test dataset. 
 
 python test.py
