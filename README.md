@@ -3,7 +3,9 @@ BERT based Text Classification
 
 # Requirments
 toch 1.6.0
+
 transformers 3.0.2
+
 python 3.6.9
 
 # Usages
