@@ -1,6 +1,8 @@
 # Text Classification
 BERT based Text Classification
 
+Use "Text_Classification.ipynb" to run in google colab.
+
 # Requirments
 toch 1.6.0
 
