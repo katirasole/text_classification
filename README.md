@@ -1,2 +1,2 @@
-# text_classification
+# Text Classification
 BERT based Text Classification
