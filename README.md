@@ -1,12 +1,12 @@
 # Text Classification
 BERT based Text Classification
 
-#Requirments
+# Requirments
 toch 1.6.0
 transformers 3.0.2
 python 3.6.9
 
-#Usages
+# Usages
 1. Data pre-processing
 
 Split dataset into train and test sets
