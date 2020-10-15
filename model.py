@@ -148,7 +148,8 @@ model = BertForSequenceClassification.from_pretrained(
 )
 
 # Run the model on GPU
-model.cuda()
+# uncomment this if use GPU
+#model.cuda()
 
 #Specify the optimizer and epoch number
 optimizer = AdamW(model.parameters(),lr = 2e-5, eps = 1e-8)
