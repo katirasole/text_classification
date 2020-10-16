@@ -13,7 +13,7 @@ python 3.6.9
 # Usages
 1. Data pre-processing
 
-Split dataset into train and test sets
+Pre-process the data and split dataset into train and test sets
 
 python process_data.py
 
